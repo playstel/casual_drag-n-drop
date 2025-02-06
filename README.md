@@ -1,4 +1,4 @@
-# drag_n_drop_MVP
+# casual_drag_n_drop
 
 Simple drag-n-drop game (Unity 2023.2.17f1)
 
