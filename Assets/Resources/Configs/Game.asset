@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 377ef32cebcb46f3a86448451438b55e, type: 3}
+  m_Name: Game
+  m_EditorClassIdentifier: 
+  ShelfTriggerPrefab: {fileID: 8433885303853452996, guid: 3b3c2d749a27e4c5fab14c832cb62a41, type: 3}
+  itemsInShelf: 4
+  itemScalePercentOnDrag: 15
+  delayBeforeStart: 1
+  delayBeforeEnd: 1
