@@ -8,17 +8,11 @@ Simple drag-n-drop game (Unity 2023.2.17f1)
 
 -infinity playing without scene reload
 
-![image](https://github.com/user-attachments/assets/b246b47b-36c1-4949-8838-9e47f38bdf4a)
-
 -22/9, 4/3, 16/9 screen support
-
-![image](https://github.com/user-attachments/assets/5132fd3d-5f3c-4225-9cd1-95c5aaa6ce9e)
 
 -different types of complexity
 
-![image](https://github.com/user-attachments/assets/867ddf03-7b6f-4ec0-8266-b0297409e264)
-
--MVP architecture:
+-architecture:
 
 ![image](https://github.com/user-attachments/assets/83628d10-4cf3-4408-8b7b-3efc84a733cf)
 
